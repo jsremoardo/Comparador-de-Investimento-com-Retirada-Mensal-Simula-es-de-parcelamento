@@ -98,7 +98,8 @@ export default function ComparadorInvestimento() {
   return (
     <div className="min-h-screen bg-gray-100 p-6">
       <div className="max-w-5xl mx-auto bg-white p-6 rounded-2xl shadow-lg">
-        <h1 className="text-3xl font-bold mb-6 text-center">Comparador de Investimento com Retirada Mensal</h1>
+        <h1 className="text-3xl font-bold mb-6 text-center">
+          Comprar a vista ou parcelar? Comparador de Investimento com Retirada Mensal</h1>
 
         <div className="mb-4">
           <h2 className="font-semibold mb-2">Simulações salvas</h2>
